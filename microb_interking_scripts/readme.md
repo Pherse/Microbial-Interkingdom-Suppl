@@ -8,3 +8,6 @@ For a detailed description of the graphs and methods please check the publicatio
 Scripts are either bash scripts including Perl commands or R scripts. For scripts from fig4 and fig5 you will need the "ggplot2","agricolae","reshape" and "FSA" package to be installed in R. Usually you would just have to run the shell scripts, they will produce some intermediate files which are then used by the R scripts.
 
 There are sometimes several input files with different extensions, refering to the different datasets (bacteria, fungi, oomycetes). Within the readme files only a general name containing "xxx" is listed.  
+
+# Article:
+## Microbial Interkingdom Interactions in Roots Promote Arabidopsis Survival
